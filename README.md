@@ -65,11 +65,11 @@
       </a>
       <br>PostgreSQL
     </td>
-    <!-- <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Node.js" />
+        <img src="https://www.mindrops.com/images/nodejs-image.png" width="48" height="48" alt="Node.js" />
       </a>
       <br>Node.js
-    </td> -->
+    </td>
   </tr>
 </table>
