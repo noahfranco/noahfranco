@@ -9,7 +9,7 @@
 - :office: &nbsp;I'm currently working at **Thryv**
 - :seedling: &nbsp;I’m currently learning **PHP**
 - :speech_balloon: &nbsp;I like to talk about **React.js** and **Node.js**
-🔭 I’m currently working on a JavaScript FlashCard Web App
+- :🔭 I’m currently working on a JavaScript FlashCard Web App
 
 <br>
 
@@ -77,8 +77,6 @@
     </td> -->
   </tr>
 </table>
-
-<h2 align="left">Coding Activity</h2>
 
 <!--
 **noahfranco/noahfranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
