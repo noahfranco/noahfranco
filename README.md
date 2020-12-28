@@ -77,5 +77,12 @@
       </a>
       <br>HTML
     </td>
+        </td>
+        <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://miro.medium.com/max/512/1*CBCWQowzYqU83B0capCTQA.png" width="48" height="48" alt="Homebrew" />
+      </a>
+      <br>Homebrew
+    </td>
   </tr>
 </table>
