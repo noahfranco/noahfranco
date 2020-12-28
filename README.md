@@ -3,9 +3,9 @@
 
 <p align="left">
 
-- :office: &nbsp;I'm currently working at **Thryv**
-- :seedling: &nbsp;I’m currently learning **PHP**
-- :speech_balloon: &nbsp;I like to talk about **React.js** and **Node.js**
+- 🏢 I'm currently working at **Thryv**
+- 🤓 I’m currently learning **PHP**
+- 😍 I'm a big **React.js** and **Node.js** enthusiast
 - 🔭 I’m currently working on a JavaScript FlashCard Web App
 <br>
 
