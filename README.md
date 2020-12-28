@@ -47,7 +47,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg" width="48" height="48" alt="CSS" />
+        <img src="https://s3-us-east-2.amazonaws.com/ditrainingco/wp-content/uploads/2017/02/06070251/css3-420x210-1.jpg" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
