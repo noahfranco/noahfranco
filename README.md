@@ -51,6 +51,12 @@
       </a>
       <br>CSS
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--0rs15s3N--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/xqrll28hwxwjdhht23w1.jpg" width="48" height="48" alt="Yarn" />
+      </a>
+      <br>Yarn
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
