@@ -9,8 +9,7 @@
 - :office: &nbsp;I'm currently working at **Thryv**
 - :seedling: &nbsp;I’m currently learning **PHP**
 - :speech_balloon: &nbsp;I like to talk about **React.js** and **Node.js**
-- :🔭 I’m currently working on a JavaScript FlashCard Web App
-
+- 🔭 I’m currently working on a JavaScript FlashCard Web App
 <br>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
