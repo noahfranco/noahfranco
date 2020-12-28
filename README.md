@@ -1,6 +1,3 @@
-### Hello There! I'm Noah Franco 
-
-
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Noah Franco</h1>
 <h3 align="left">I am currently doing Software development</h3>
 
