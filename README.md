@@ -45,6 +45,12 @@
       </a>
       <br>Sass
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
