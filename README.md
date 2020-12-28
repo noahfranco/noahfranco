@@ -61,7 +61,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://cdn.onlinewebfonts.com/svg/img_145825.png" width="48" height="48" alt="PostgreSQL" />
+        <img src="https://cdn2.f-cdn.com/contestentries/216177/14829473/55545e615dc2e_thumb900.jpg" width="48" height="48" alt="PostgreSQL" />
       </a>
       <br>PostgreSQL
     </td>
