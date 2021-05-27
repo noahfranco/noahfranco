@@ -6,5 +6,4 @@
 - 🏢 I'm currently working at **Thryv**
 - 🤓 I’m currently learning **PHP**
 - 😍 I'm a big **React.js** and **Node.js** enthusiast
-- 🔭 I’m currently working on a JavaScript FlashCard Web App
 <br>
