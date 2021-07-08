@@ -4,6 +4,5 @@
 <p align="left">
 
 - 🏢 I'm currently working at **Thryv**
-- 🤓 I’m currently learning **PHP**
-- 😍 I'm a big **React.js** and **Node.js** enthusiast
+- 😍 I'm a big **JavaScirpt** and **Python** enthusiast
 <br>
