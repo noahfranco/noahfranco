@@ -10,3 +10,5 @@
 - 🤓  Studying for the AWS Cloud Practitioner certification
 - 🧭  I'm passionate about designing and building scalable programming flows  
 <br>
+  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=noahfranco)
