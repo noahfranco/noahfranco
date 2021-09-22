@@ -5,7 +5,7 @@
 
 <p align="left">
 
-- 🏢  I'm currently working as a Web Developer at **Thryv**
+- 🏢  I'm currently working as a Full Stack Web Developer at **Thryv**
 - 😍  I'm a big **JavaScirpt** and **Python** enthusiast
 - 🤓  Studying for the AWS Cloud Practitioner certification
 - 🧭  I'm passionate about designing and building scalable programming flows  
