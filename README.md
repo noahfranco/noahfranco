@@ -2,4 +2,4 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/noahfranco/)
 
-![Alt Text](https://giphy.com/embed/jpbnoe3UIa8TU8LM13.gif)
+[![Alt Text](https://giphy.com/embed/jpbnoe3UIa8TU8LM13.gif)]
